@@ -62,3 +62,7 @@ From this file, you can customize the general settings of the plugin according t
 ---
 
 ## 📸 Screenshots
+
+Here are some in-game screenshots of the plugin in action:
+
+<p align="center"> <img src="screenshots/hudsay_1.png" alt="HudSay message example" width="600"/> </p>
