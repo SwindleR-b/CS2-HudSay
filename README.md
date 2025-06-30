@@ -24,7 +24,7 @@ Bu plugin, Counter-Strike 2 sunucuları için geliştirilmiş özel bir eklentid
 ### 1) Eklentiyi İndir
 
 - En son sürümü buradan indir:
- 👉 [Releases](https://github.com/kendi-repo-linkin/plugin/releases)
+ 👉 [Releases](https://github.com/SwindleR-b/CS2-HudSay)
 
 
 ### 2) Eklentiyi Kur
@@ -45,6 +45,5 @@ css_plugins load HudSay
 
 ## ⚙️ Komutlar
 
-| Komut | Açıklama
-|-------|----------|-------|
+| Komut | Açıklama                                                                  
 | `!hudsay` | Mesaj
