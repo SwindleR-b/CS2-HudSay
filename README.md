@@ -50,3 +50,11 @@ css_plugins load HudSay
 |------------|----------------------------------|
 | `!hudsay`  | Sends a message to all players   |
 
+---
+
+## 📁 Configuration File
+After restarting your server, a configuration file will be automatically generated at:
+
+cs2/addons/counterstrikesharp/config/plugins/HudSay/HudSay.json
+
+From this file, you can customize the general settings of the plugin according to your server needs.
