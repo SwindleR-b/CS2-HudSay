@@ -1,49 +1,52 @@
 # 🔫 CS2 Plugin - [HudSay Plugin]
 
-## 📌 Açıklama
+## 📌 Description
 
-Bu plugin, Counter-Strike 2 sunucuları için geliştirilmiş özel bir eklentidir. Aşağıdaki özellikleri sunar:
-
----
-
-- ✅ [Özellik 1 - Bütün oyunculara duyuru mesajı yollar.]
-- ✅ [Özellik 2 - HudSay ekranın ortasında büyük bir mesaj yollar.]
+This plugin is a custom extension developed for Counter-Strike 2 servers. It offers the following features:
 
 ---
 
-## 🧩 Gereksinimler
+- ✅ Sends an announcement message to all players.
+- ✅ Displays a large HudSay message in the center of the screen.
+
+---
+
+## 🧩 Requirements
 
 - Counter-Strike 2 (dedicated server)
 - CounterStrikeSharp
 
 ---
 
-## 🛠️ Kurulum
+## 🛠️ Installation
 
+### 1) Download the Plugin
 
-### 1) Eklentiyi İndir
-
-- En son sürümü buradan indir:
+- Download the latest release from:  
  👉 [Releases](https://github.com/SwindleR-b/CS2-HudSay)
 
 
-### 2) Eklentiyi Kur
+### 2) Install the Plugin
+
+Place the plugin in the following directory:
 
 cs2/addons/counterstrikesharp/plugins/
 
 
-### 3) Eklentiyi Başlat / Yeniden Yükle
+### 3) Start / Reload the Plugin
 
-Aktif etmek için:
+To activate:
 
-- Sunucunuzu yeniden başlatın  
-  **VEYA**
-- Konsola aşağıdaki komutları yazın:
+- Restart your server  
+  **OR**
+- Run the following command in the server console:
 css_plugins load HudSay
 
 ---
 
-## ⚙️ Komutlar
+## ⚙️ Commands
 
-| Komut | Açıklama                                                                  
-| `!hudsay` | Mesaj
+| Command    | Description                      |
+|------------|----------------------------------|
+| `!hudsay`  | Sends a message to all players   |
+
