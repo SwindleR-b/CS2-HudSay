@@ -1,2 +1,3 @@
 # CS2-HudSay
-dsadas
+Counter Strike 2 Hudsay Plugin
+
