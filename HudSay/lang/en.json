@@ -1,0 +1,13 @@
+{
+  "command_usage": "\x01Usage: \x0C!hudsay \x0E<message>",
+  "announcement_sent": "\x01Announcement sent: \x0A {0}",
+  "console_announcement_sent": "\x0AAnnouncement sent: \x0C{0}",
+  "config_reloaded": "\x0AConfiguration \x0Creloaded \x0Esuccessfully!",
+  "config_reload_error": "\x02Error reloading \x04configuration",
+  "plugin_loaded": "\x0AHudSay Plugin \x0Cloaded \x0Esuccessfully!",
+  "plugin_unloaded": "\x04HudSay Plugin \x0Eunloaded \x02successfully!",
+  "permission_denied": "\x02You don't have \x04permission \x02to use this command!",
+  "invalid_usage": "\x02Invalid usage! \x01Use: \x0C!hudsay \x0E<message>",
+  "message_too_long": "\x02Message is too long! \x04Maximum \x0C{0} \x04characters allowed.",
+  "no_message": "\x02Please provide a \x0Emessage \x02to announce!"
+}

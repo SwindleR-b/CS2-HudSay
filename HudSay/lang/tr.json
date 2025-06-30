@@ -1,0 +1,13 @@
+{
+  "command_usage": "\x01Kullanım: \x0C!hudsay \x0E<mesaj>",
+  "announcement_sent": "\x01Duyuru gönderildi:\x0A{0}",
+  "console_announcement_sent": "\x0ADuyuru gönderildi: \x0C{0}",
+  "config_reloaded": "\x0AKonfigürasyon \x0Cbaşarıyla \x0Eyeniden yüklendi!",
+  "config_reload_error": "\x02Konfigürasyon yeniden yüklenirken \x04hata oluştu",
+  "plugin_loaded": "\x0AHudSay Eklentisi \x0Cbaşarıyla \x0Eyüklendi!",
+  "plugin_unloaded": "\x04HudSay Eklentisi \x0Ebaşarıyla \x02kaldırıldı!",
+  "permission_denied": "\x02Bu komutu kullanma \x04yetkiniz yok!",
+  "invalid_usage": "\x02Geçersiz kullanım! \x01Kullanım: \x0C!hudsay \x0E<mesaj>",
+  "message_too_long": "\x02Mesaj çok uzun! \x04Maksimum \x0C{0} \x04karakter izin veriliyor.",
+  "no_message": "\x02Lütfen duyuru yapmak için bir \x0Emesaj girin!"
+}
