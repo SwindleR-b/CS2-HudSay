@@ -58,3 +58,7 @@ After restarting your server, a configuration file will be automatically generat
 _cs2/addons/counterstrikesharp/config/plugins/HudSay/HudSay.json_
 
 From this file, you can customize the general settings of the plugin according to your server needs.
+
+---
+
+## 📸 Screenshots
