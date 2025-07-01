@@ -65,4 +65,4 @@ After restarting your server, a configuration file will be automatically generat
 
 Here are some in-game screenshots of the plugin in action:
 
-<p align="center"> <img src="screenshots/hudsay1.png" alt="Rebellion Sound" width="600"/> </p>
+<p align="center"> <img src="screenshots/hudsay1.png" alt="HudSay Plugin" width="600"/> </p>
