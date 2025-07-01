@@ -57,7 +57,7 @@ After restarting your server, a configuration file will be automatically generat
 
 _cs2/addons/counterstrikesharp/config/plugins/HudSay/HudSay.json_
 
-From this file, you can customize the general settings of the plugin according to your server needs.
+- You can use this config setting to replace the in-game sound with another sound. You can even add a sound you've downloaded from the workshop (e.g., sound/xxx/xxx.wav). Additionally, you can customize settings such as ChatTag, color options, HUD message display duration, and more.
 
 ---
 
@@ -65,4 +65,4 @@ From this file, you can customize the general settings of the plugin according t
 
 Here are some in-game screenshots of the plugin in action:
 
-<p align="center"> <img src="screenshots/hudsay1.png" alt="HudSay message example" width="600"/> </p>
+<p align="center"> <img src="screenshots/rebellion.png" alt="Rebellion Sound" width="600"/> </p>
