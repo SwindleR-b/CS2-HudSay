@@ -30,7 +30,7 @@ This plugin is a custom extension developed for Counter-Strike 2 servers. It off
 
 Place the plugin in the following directory:
 
-_cs2/addons/counterstrikesharp/plugins/_
+- _cs2/addons/counterstrikesharp/plugins/_
 
 
 ### 3) Start / Reload the Plugin
@@ -55,7 +55,7 @@ css_plugins load HudSay
 ## 📁 Configuration File
 After restarting your server, a configuration file will be automatically generated at:
 
-_cs2/addons/counterstrikesharp/config/plugins/HudSay/HudSay.json_
+- _cs2/addons/counterstrikesharp/config/plugins/HudSay/HudSay.json_
 
 - You can make any desired adjustments to this configuration file and customize it to suit your needs.
 
